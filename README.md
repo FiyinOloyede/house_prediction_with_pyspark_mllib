@@ -1,1 +1,1 @@
-# house_prediction_with_pyspark_mllib
+This project analyzes a house sales dataset in King County, USA, to predicts housing prices using Apache Spark’s MLlib library to build different regression models through the PySpark API. The optimal model was chosen based on the least Root Mean Squared Error and highest R2
